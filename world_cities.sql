@@ -15,7 +15,7 @@ INSERT INTO cities (id, name, population, country) VALUES
   (2,  'Tokyo',     13515271, 'Japan'),
   (3,  'Cairo',     9500000,  'Egypt'),
   (4,  'Sydney',    5312163,  'Australia'),
-  (5,  'São Paulo', 12252023, 'Brazil'),
+  (5,  'Sao Paulo', 12252023, 'Brazil'),
   (6,  'Paris',     2140526,  'France'),
   (7,  'Lagos',     14368332, 'Nigeria'),
   (8,  'Mumbai',    12442373, 'India'),
